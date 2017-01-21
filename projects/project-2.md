@@ -1,24 +1,17 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
-date: 2015
+image: images/soccerball.png
+title: MISO
+permalink:
+date: 2013
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Soccer
+summary: This is about when I was a Team Manager/Coach for a MISO team.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+MISO stands for Major Island Soccer Organization. It is one of the competitive soccer leagues here on Oahu.
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+I was the Team Manager/Coach of Team XI in MISO's 3rd Division. It was only for 1 season, and then our team disbanded. Though we lost every game, I loved it. Being a coach, going to the meetings, doing the paperwork, it was a blast. Though I didn't get paid, and actually lost a lot of my own money, I wish one day I could do it again. I learned a lot of what went wrong that season, so if I were ever in that situation again, I would be better prepared.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
-
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+At the end of the season, I dont remember the exact details but I remember we were dead last. That was not the reason why we disbanded, but it didn't help when deciding if we wanted to play again the next season.
