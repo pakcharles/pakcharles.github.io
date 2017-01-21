@@ -4,7 +4,7 @@ type: project
 image: images/wwoof.png
 title: WWOOF
 permalink: projects/wwoof
-date: Jan 2014 - Apr 2014
+date: 2014
 labels:
   - Farming
 summary: Back in 2014, I took a semester off of school and went WWOOFing.
