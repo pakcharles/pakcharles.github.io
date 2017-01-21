@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/soccerball.png
 title: MISO
-permalink:
+permalink: projects/miso
 date: 2013
 labels:
   - Soccer
