@@ -2,7 +2,8 @@
 layout: project
 type: project
 image: images/change.jpg
-title: Calculate Change Assignment
+title: Calculate
+permalink: projects/calculate
 date: Spring 2016
 labels:
   - Java
