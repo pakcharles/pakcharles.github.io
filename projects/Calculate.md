@@ -4,7 +4,7 @@ type: project
 image: images/change.jpg
 title: Calculate
 permalink: projects/calculate
-date: Spring 2016
+date: 2016
 labels:
   - Java
 summary: The assignment that made me become an ICS major.
