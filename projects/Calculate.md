@@ -13,15 +13,12 @@ summary: The assignment that made me become an ICS major.
 This project is a Java assignment I did in my ICS 111 class. It is a really simple project, but it has a lot of meaning to me. This homework has a lot of meaning to me because it was when I decided that this is the major I wanted to be in. Without going into too much detail, prior to taking ICS 111 I had absolutely no clue what coding was. I had no prior experiences in coding, so this class was truly all brand new to me. Getting back to the point, this was the first assignment I did on my own, and it made me feel really good about the class.
 
 Here is the code:
-
 ```
-
 /**
  * @author Charles
  *
  */
 public class Homework02 {
-
   /**
    * @param args
    */
@@ -53,9 +50,7 @@ public class Homework02 {
     System.out.print(pennies); // output the amount of pennies
     System.out.println(" pennies"); // specify what the number is for
   }
-
 }
-
 ```
 My code looks very clunky, but I am proud of it! Of course I could go in there and revise it, but I want to keep it as it to remind myself, and show others that we all have to start somewhere.
 
