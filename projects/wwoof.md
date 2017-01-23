@@ -21,7 +21,9 @@ I went to England to WWOOF back in 2014. To be more precise, from January to Apr
 Where did I go?
 
 Obviously England is a huge country that has more than just one farm, so I couldn't go to all of them. I went to three farms in total, but they were all very far from each other. My first farm I went to was in a small area near Leicester, I think it is was Belvoir (not 100% sure if it was called this). I do remember that there was a castle (or was it a super giant mansion?) not too far away. Anyways, this was more towards the middle region of England.
+
 The second farm I went to was in New Forest, which is a little south of Southampton. Which is located in the southern region of England. What was crazy cool about this place was that they had ponies just walking around. I didn't know that there was a difference between ponies and horses, but there is a clear difference. I'm not talking about the ponies being on the farm, I'm talking about like the region itself had ponies just chilling doing their thing.
+
 The third farm I went to was in York, which is in the north region of England. I wasn't in the actual city itself, but the outskrit of the city. I didn't know this until after going, but New York in America was named after York in England.
 
 Why WWOOF?
