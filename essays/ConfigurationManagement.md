@@ -12,7 +12,7 @@ Hello friends and strangers!
 Configuration management is a important part of building anything, and in software configuration management it is extremely important. It isn't always possible to work together in one room. Some people don't like crowds, some projects require 100's of people, some people code better at night while others code better during the day. So with all that said, here comes the idea of Configuration Management. When you are working on projects with other people you have to rely on each other to get the job done. So I believe it is extremely important that the project has good configuration management.
 
 <div class="ui small rounded images">
-  <img class="ui image" src="../images/teamwork.jpg">
+  <img src="../images/teamwork.jpg">
 </div>
 
 Though it is weird that I said all of that earlier. I myself have never had software configuration management experience. But I did have group projects in high school, as I'm sure we all have. The concept is the same, or at least to my understanding it is the same. When my group had communications problems, it was a struggle man. Especially in like freshman year, cause like you start getting grouped with people you don't know from different middle schools. Senior year though, group projects were the best. I am assuming that my first couple group projects will be a struggle, but maybe after a couple of them I will learn good configuration management skills. Right now, I would be a disaster to any group, because I have no clue on how to use git. Barely even know how to use GitHub haha. 
