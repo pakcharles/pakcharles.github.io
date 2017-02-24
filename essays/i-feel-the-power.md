@@ -19,4 +19,6 @@ If you are like me, you are intimidated by HTML and all that code, because it ca
 
 Before anything though, I believe it would really help if you watched a video on someone else using a UI Framework first. If you have no clue what a UI Framework’s potential is, then this method is best. That way you can get a feel on why you should take a little bit of time and effort to learn this wonderful tool.
 
-By the way, if you have no clue what HTML is, don’t start with a UI Framework, or at least in my opinion. You should learn the basics / foundation first, otherwise you will just be learning to match words pictures or actions, never actually knowing how to read. A good website I would recommend is Free Code Camp. Like their name implies, it is a website tutorial website that teaches you the basics of coding languages such as HTML. 
+By the way, if you have no clue what HTML is, don’t start with a UI Framework, or at least in my opinion. You should learn the basics / foundation first, otherwise you will just be learning to match words pictures or actions, never actually knowing how to read. A good website I would recommend is Free Code Camp. Like their name implies, it is a website tutorial website that teaches you the basics of coding languages such as HTML.
+
+I want to wrap this up with saying this, if you are a software engineer or a future software engineer, take the time to learn a UI Framework. I promise you that learning UI Frameworks will help you save time and energy, two of the most precious things to us. 
