@@ -2,12 +2,12 @@
 layout: essay
 type: essay
 title: Maybe One Day 
-date: 2017-01-31
+date: 2017-03-23
 labels:
   - Meteor
 ---
 
-  Meteor, I spent about 3 weeks learning this. It still feels so foreign to me though. Like somedays everything makes sense and is going smoothly. Then there are days where nothing is going my way, and everything is crashing my website. Its cool that something like this exists, but it has a huge learning curve.
+  Meteor, I spent about 3 weeks learning this stuff and I still feel unconfident. Meteor is a totally a different monster, it still feels so foreign to me. Like somedays everything makes sense and is going smoothly. Then there are days where nothing is going my way, and everything is crashing my website. It's cool that something like this exists, but it has a huge learning curve.
 
   Meteor was and still is a very difficult application for me. I put in so many hours trying to understand it, yet it feels like I am not making much progress. Whenever I try to do stuff on my own, it makes no sense and I have no clue what I am doing. But when I am watching the tutorial videos on what to do, it is super clear and everything works perfectly. Maybe it's not for me. I think the hardest part about it is trying to comprehend the concept of MiniMongo. I get it conceptually, but not really.
   
