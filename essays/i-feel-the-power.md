@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: I FEEL THE POWER!
-date: 2017-01-31
+date: 2017-02-23
 labels:
   - Semantic UI
   - UI Frameworks
