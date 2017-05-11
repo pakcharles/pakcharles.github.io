@@ -9,7 +9,7 @@ labels:
   - Farming
 summary: Back in 2014, I took a semester off of school and went WWOOFing.
 ---
-<img src="../images/farming.jpg">
+<img class="ui image" src="../images/farming.jpg">
 
 
 ## What is WWOOF?
