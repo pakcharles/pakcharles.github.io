@@ -9,6 +9,8 @@ labels:
   - Soccer
 summary: This is about when I was a Team Manager/Coach for a MISO team.
 ---
+<img src="../images/cleats.jpg">
+
 
 What is MISO?
 
